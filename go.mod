@@ -1,4 +1,4 @@
-module github.com/go-ole/go-ole
+module github.com/ContinuumLLC/godep-go-ole-go-ole
 
 go 1.12
 
